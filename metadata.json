@@ -1,0 +1,5 @@
+{
+  "name": "Nubifica Factura",
+  "description": "Una aplicación completa de facturación e inventario diseñada para cumplir con las regulaciones de Colombia. Permite gestionar clientes, productos, y generar facturas de venta de manera sencilla y eficiente.",
+  "requestFramePermissions": []
+}
